@@ -1,4 +1,4 @@
-This is the data and code for paper [Synonym-unaware Fast Adversarial Training against Textual Adversarial Attacks (NAACL Findings 2025)](https://arxiv.org/abs/2401.12461).
+This is the code for paper [Synonym-unaware Fast Adversarial Training against Textual Adversarial Attacks (NAACL Findings 2025)](https://arxiv.org/abs/2401.12461).
 
 ## Experiment Example
 1. Training the BERT model with FAT method on the IMDB dataset:
@@ -17,4 +17,4 @@ This is the data and code for paper [Synonym-unaware Fast Adversarial Training a
     ```
 
 ## Acknowledgment
-This repository benefit from [Flooding-X](https://github.com/qinliu9/Flooding-X).
+This repository benefits from [Flooding-X](https://github.com/qinliu9/Flooding-X).
